@@ -1,0 +1,105 @@
+body{
+	background-image: url("images/eggs.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 90%;
+	color: #555;
+}
+.navbar-brand {
+	font-family: 'Poiret One', cursive;
+}
+.dropdown-toggle{
+	font-family: 'Poiret One', cursive;
+}
+.dropdown{
+	font-family: 'Poiret One', cursive;
+	
+}
+.logo-container{
+	text-align: center;
+    height: 100%;
+    margin-top: 300px;
+    
+}
+.logo{
+	font-family: 'Poiret One', cursive;
+	border: 1px solid black;
+	border: 1px solid #bb0000;
+    padding: 20px 10px 2px 10px;
+    color: #bb0000;
+    font-size: 51px;
+    display: inline-block;
+    transform: translateY(-90%);
+}
+a{
+	color: #000000;
+}
+
+.copyright{
+	font-family: 'Poiret One', cursive;
+	color: #000000;
+	margin-top: 450px;
+    margin-left: 800px;
+}
+/***Form CSS ***/
+
+@import url(https://fonts.googleapis.com/css?family=Fauna+One|Muli);
+#mainform{
+width:960px;
+margin-left: auto;
+margin-right: auto;
+padding-top:20px;
+font-family: 'Poiret One', cursive;
+align-content: center;
+}
+#form{
+border-radius:2px;
+padding:20px 30px;
+box-shadow:0 0 15px;
+font-size:14px;
+font-weight:bold;
+width:600px;
+margin: 60px auto;
+
+}
+h3{
+text-align:center;
+font-size:20px;
+}
+input{
+width:100%;
+height:35px;
+margin-top:5px;
+border:1px solid #8a6d3b;
+border-radius:3px;
+padding:5px;
+background-color: rgba(0,0,0,.5);
+}
+input[type=button]{
+background-color:rgba(0,0,0,.5);
+border:1px solid white;
+font-family:'Poiret One', cursive;
+font-Weight:bold;
+font-size:18px;
+color:white;
+}
+textarea{
+width:100%;
+height:80px;
+margin-top:5px;
+border-radius:3px;
+padding:5px;
+resize:none;
+background-color: rgba(0,0,0,.5);
+border:1px solid #8a6d3b;
+}
+
+#note{
+color:black;
+font-Weight:400;
+}
+#returnmessage{
+font-size:14px;
+color:green;
+text-align:center;
+}

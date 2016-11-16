@@ -1,0 +1,47 @@
+body{
+	background-image: url("images/paper.jpg");
+}
+.navbar-brand {
+	font-family: 'Poiret One', cursive;
+}
+.dropdown-toggle{
+	font-family: 'Poiret One', cursive;
+}
+.dropdown{
+	font-family: 'Poiret One', cursive;
+	
+}
+.logo-container{
+	text-align: center;
+    height: 100%;
+    margin-top: 300px;
+    
+}
+.logo{
+	font-family: 'Poiret One', cursive;
+	border: 1px solid black;
+	border: 1px solid #bb0000;
+    padding: 20px 10px 2px 10px;
+    color: #bb0000;
+    font-size: 51px;
+    display: inline-block;
+    transform: translateY(-90%);
+}
+blockquote {
+    padding: 98px 0px 1px 100px;
+    margin-left: auto;
+    font-family: 'Pacifico', cursive;
+    font-size: 25px;
+    color: rgba(0,0,0,.5);
+}
+
+.table{
+    margin-left:auto;
+    width: 80%;
+    font-family: 'Poiret One', cursive;
+    font-size: 16px;
+}
+
+.left span{
+	padding: 300px;
+}
